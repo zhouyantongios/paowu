@@ -14,6 +14,7 @@
 		26EDEBFF1A46CB3B0061AA2E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 26EDEBFE1A46CB3B0061AA2E /* Images.xcassets */; };
 		26EDEC021A46CB3B0061AA2E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 26EDEC001A46CB3B0061AA2E /* LaunchScreen.xib */; };
 		26EDEC0E1A46CB3B0061AA2E /* paowuTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 26EDEC0D1A46CB3B0061AA2E /* paowuTests.m */; };
+		26EDEC181A46CBF00061AA2E /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 26EDEC171A46CBF00061AA2E /* 1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		26EDEC071A46CB3B0061AA2E /* paowuTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = paowuTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		26EDEC0C1A46CB3B0061AA2E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		26EDEC0D1A46CB3B0061AA2E /* paowuTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = paowuTests.m; sourceTree = "<group>"; };
+		26EDEC171A46CBF00061AA2E /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		26EDEBF01A46CB3B0061AA2E /* paowu */ = {
 			isa = PBXGroup;
 			children = (
+				26EDEC171A46CBF00061AA2E /* 1.jpg */,
 				26EDEBF51A46CB3B0061AA2E /* AppDelegate.h */,
 				26EDEBF61A46CB3B0061AA2E /* AppDelegate.m */,
 				26EDEBF81A46CB3B0061AA2E /* ViewController.h */,
@@ -200,6 +203,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				26EDEBFD1A46CB3B0061AA2E /* Main.storyboard in Resources */,
+				26EDEC181A46CBF00061AA2E /* 1.jpg in Resources */,
 				26EDEC021A46CB3B0061AA2E /* LaunchScreen.xib in Resources */,
 				26EDEBFF1A46CB3B0061AA2E /* Images.xcassets in Resources */,
 			);

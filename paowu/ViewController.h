@@ -9,7 +9,10 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+//图
+@property (nonatomic,strong)UIImageView * imageView;
 
-
+//购物车图片
+@property (nonatomic,strong) UIImageView *ShoppingImageView;
 @end
 
